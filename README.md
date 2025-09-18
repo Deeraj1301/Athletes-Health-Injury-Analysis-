@@ -1,13 +1,12 @@
-#  Athlete Health & Injury Analytics – Power BI
+# 🏋️ Athlete Health & Injury Analytics – Power BI
 
 [![View Dashboard](https://img.shields.io/badge/View%20Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)](https://app.powerbi.com/view?r=eyJrIjoiZDA1YTBkMzctMWM0Yy00NTE2LWE4MWItNTc5MTM1MmU5YjRhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
-
-<img width="167" height="200" alt="Image" src="https://github.com/user-attachments/assets/3badf33e-c36c-4088-bb3f-b0ed49e15fac" />
-
+<a href="https://datascienceportfol.io/deerajS" target="_blank"><img width="167" height="200" alt="Image" src="https://github.com/user-attachments/assets/3badf33e-c36c-4088-bb3f-b0ed49e15fac" />
+</a>
 
 ## Table of Contents
-- [📊 Social Media Marketing Performance Analytics – Power BI](#-social-media-marketing-performance-analytics--power-bi)
+- [🏋️ Athlete Health & Injury Analytics – Power BI](#-social-media-marketing-performance-analytics--power-bi)
   - [Table of Contents](#table-of-contents)
   - [Problem Statement](#problem-statement)
   - [Project Planning using Star Method](#project-planning-using-star-method)
@@ -441,4 +440,7 @@ $\textsf{\color{blue}{View Tools ➡️}}$
 - **DAX** → Custom KPIs & calculated measures
 - **Excel/CSV** → Raw dataset handling
 - **Icons/Images** → For visual representation in dashboard
+- **Power Query (M Language)** → Data cleaning, ETL.
+- **Figma/Canva (optional)** → UI design references.
+
 </details>
